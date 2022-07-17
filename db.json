@@ -1,0 +1,101 @@
+{
+  "texts": [
+    {
+      "id": 1,
+      "img":"https://bit.ly/kent-c-dodds",
+      "title": "Sarah",
+      "Descript": "   Heyyy ! I have Completed the design",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 2,
+      "img":"https://bit.ly/tioluwani-kolawole",
+      "title": "Michale",
+      "Descript": "Get those to me immediately",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 3,
+      "img":"https://bit.ly/kent-c-dodds",
+      "title": "James",
+      "Descript": "Sent it over some time",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 4,
+      "img":"https://bit.ly/ryan-florence",
+      "title": "Jessika",
+      "Descript": "I wanted to discuss",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 5,
+      "img":"https://bit.ly/prosper-baba",
+      "title": "John",
+      "Descript": "Send It Over",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 6,
+      "img":"https://bit.ly/sage-adebayo",
+      "title": "Smith",
+      "Descript": "When are You available",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 7,
+      "img":"https://bit.ly/kent-c-dodds",
+      "title": "Hafstader",
+      "Descript": "I have Completed the design",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 8,
+      "img":"https://bit.ly/dan-abramov",
+      "title": "Sarah",
+      "Descript": " Heyyy ! I have Completed the design",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 9,
+      "img":"https://bit.ly/dan-abramov",
+      "title": "Sarah",
+      "Descript": "I have Completed the design",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 10,
+      "img":"https://bit.ly/dan-abramov",
+      "title": "Sarah",
+      "Descript": "I have Completed the design",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 11,
+      "img":"https://bit.ly/dan-abramov",
+      "title": "Sarah",
+      "Descript": "I have Completed the design",
+      "Not": 1,
+      "Time": 11.30
+    },
+    {
+      "id": 12,
+      "img":"https://bit.ly/dan-abramov",
+      "title": "Sarah",
+      "Descript": "I have Completed the design",
+      "Not": 1,
+      "Time": 11.30
+    }
+
+  ]
+}
