@@ -9,7 +9,7 @@
     border-start-start-radius: 24px;
     border-start-end-radius:24px ;
     position: fixed;
-    top: 0;
+    border: transparent;
     
     width: 100%;
 }
@@ -19,15 +19,16 @@
 }
 .chatbox{
     border: transparent;
-    height: 100%;
     width: 100%;
     background-color: #1E1E1E;
     margin-top: 90px;
     position: fixed;
-    overflow: hidden;
-   
-   
+    overflow: scroll; 
 }
+.chatbox::-webkit-scrollbar {
+    display: none;
+  }
+  
 .bottomnav{
     position: fixed;
     bottom: 0;

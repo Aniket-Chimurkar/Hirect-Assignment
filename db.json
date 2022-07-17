@@ -71,31 +71,7 @@
       "Descript": "I have Completed the design",
       "Not": 1,
       "Time": 11.30
-    },
-    {
-      "id": 10,
-      "img":"https://bit.ly/dan-abramov",
-      "title": "Sarah",
-      "Descript": "I have Completed the design",
-      "Not": 1,
-      "Time": 11.30
-    },
-    {
-      "id": 11,
-      "img":"https://bit.ly/dan-abramov",
-      "title": "Sarah",
-      "Descript": "I have Completed the design",
-      "Not": 1,
-      "Time": 11.30
-    },
-    {
-      "id": 12,
-      "img":"https://bit.ly/dan-abramov",
-      "title": "Sarah",
-      "Descript": "I have Completed the design",
-      "Not": 1,
-      "Time": 11.30
     }
-
+    
   ]
 }

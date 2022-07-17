@@ -47,7 +47,7 @@ const Chat=()=>{
         </Box>
         <Spacer />
         <Box mr="25px" mt="21px">
-           <Text  fontSize="14px" ml="20px" fontStyle="Poppins" fontWeight="regular">
+           <Text  fontSize="14px" ml="19px" fontStyle="Poppins" fontWeight="regular">
             {g.Time}
            </Text>
            
@@ -96,6 +96,7 @@ const Chat=()=>{
 
         
       </div> */}
+      
     </div>
     </>
 }
