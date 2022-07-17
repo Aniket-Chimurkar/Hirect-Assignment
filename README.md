@@ -7,6 +7,12 @@ This project was bootstrapped with [create vite@latest](https://github.com/faceb
 
 In the project directory, you can run:
 
+
+### `npm i`
+
+to install all npm packages.\
+
+
 ### `npm run dev`
 
 Runs the app in the development mode.\
